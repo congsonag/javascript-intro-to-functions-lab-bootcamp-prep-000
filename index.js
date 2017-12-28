@@ -18,7 +18,6 @@ function sayHiToGrandma(content) {
   } else {
     return "YES INDEED!"
   }
-    
-  
+
 }
 fucntion sa
