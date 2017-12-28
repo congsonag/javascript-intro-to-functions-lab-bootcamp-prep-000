@@ -12,3 +12,7 @@ function logShout(content) {
 function logWhisper(content) {
   console.log(whisper(content))
 }
+function sayHiToGrandma(string) {
+  if (string === whisper(content))
+    return "I can't hear you!"
+}
