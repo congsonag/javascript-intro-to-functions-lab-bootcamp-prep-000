@@ -1,4 +1,3 @@
 function shout(content) {
-  return content
-  
+  return content.toUpperCase()
 }
