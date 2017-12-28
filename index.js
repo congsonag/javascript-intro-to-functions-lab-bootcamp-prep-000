@@ -20,4 +20,3 @@ function sayHiToGrandma(content) {
   }
 
 }
-fucntion sa
