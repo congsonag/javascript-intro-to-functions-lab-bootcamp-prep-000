@@ -13,6 +13,12 @@ function logWhisper(content) {
   console.log(whisper(content))
 }
 function sayHiToGrandma(content) {
-  if (content === whisper(content))
+  if (content === whisper(content)) {
     return "I can't hear you!"
+  } else {
+    return "YES INDEED!"
+  }
+    
+  
 }
+fucntion sa
